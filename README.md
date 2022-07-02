@@ -1,10 +1,11 @@
 # Tab Shortcut Tools <img src="https://raw.githubusercontent.com/Alex313031/Tab-Shortcut-Tools/main/src/icons/icon_128.png" width="48">
 Chromium Extension to Duplicate Tab, Pop out current Tab, and add New Tab to the Right. You can configure the shortcuts at `chrome://extensions/shortcuts`
 
-Chrome Web Store: https://chrome.google.com/webstore/detail/duplicate-tab-shortcut/klehggjefofgiajjfpoebdidnpjmljhb
+Chrome Web Store: https://chrome.google.com/webstore/detail/tab-shortcut-tools/ecfmgmpggijgmnjolmaegkhkcdkbookp
 
 Screenshot
 
+<img src="https://raw.githubusercontent.com/Alex313031/Tab-Shortcut-Tools/main/screenshot.png" width="1024">
 
 
 
