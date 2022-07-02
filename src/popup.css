@@ -1,0 +1,17 @@
+body {
+  min-width: 425px;
+  font-size: large;
+}
+
+@media all and (prefers-color-scheme: dark) {
+  body {
+    background-color: #24292f;
+    color: #ffffff;
+  }
+  a {
+    color: #ae5ee0;
+  }
+  a:active {
+    color: #5bf5bf;
+  }
+}
