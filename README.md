@@ -1,2 +1,2 @@
-# Tab-Shortcut-Tools
-Duplicate Tab, Pop out Tab, and New Tab to the Right - Configurable Shortcuts
+# Tab Shortcut Tools
+Chromium Extension to Duplicate Tab, Pop out current Tab, and add New Tab to the Right. You can configure the shortcuts at chrome://extensions/shortcuts.
