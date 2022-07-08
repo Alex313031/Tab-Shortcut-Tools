@@ -1,6 +1,13 @@
 body {
-  min-width: 425px;
+  min-width: 380px;
+  max-width: 380px;
+  min-height: 280px;
+  max-height: 300px;
   font-size: large;
+}
+
+img.icon {
+  margin-bottom: -8px;
 }
 
 @media all and (prefers-color-scheme: dark) {
