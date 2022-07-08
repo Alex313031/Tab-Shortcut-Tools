@@ -31,7 +31,7 @@
       "64": "icons/icon_64.png",
       "128": "icons/icon_128.png"
     },
-    "default_title": "Configure Duplicate Tab Shortcut",
+    "default_title": "Configure Tab Shortcut Tools",
     "default_popup": "popup.html"
   },
   "commands": {
