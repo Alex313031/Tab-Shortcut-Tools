@@ -52,7 +52,7 @@
     }
   },
   "permissions": [
-    "storage",
+    "storage"
   ],
   "minimum_chrome_version": "88",
   "offline_enabled": true
