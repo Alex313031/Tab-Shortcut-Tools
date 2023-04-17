@@ -2,8 +2,8 @@
   "manifest_version": 3,
   "name": "Tab Shortcut Tools",
   "short_name": "Tab Shortcut Tools",
-  "version": "1.6.3",
-  "version_name": "1.6.3",
+  "version": "1.6.4",
+  "version_name": "1.6.4",
   "description": "Duplicate Tab, Pop out Tab, and New Tab to the Right - Configurable Shortcuts",
   "homepage_url": "https://github.com/Alex313031/Tab-Shortcut-Tools",
   "author": "Alex313031",
@@ -25,11 +25,11 @@
   "action": {
     "default_icon": {
       "16": "icons/icon_16.png",
+      "19": "icons/icon_19.png",
       "24": "icons/icon_24.png",
       "32": "icons/icon_32.png",
-      "48": "icons/icon_48.png",
-      "64": "icons/icon_64.png",
-      "128": "icons/icon_128.png"
+      "38": "icons/icon_38.png",
+      "48": "icons/icon_48.png"
     },
     "default_title": "Configure Tab Shortcut Tools",
     "default_popup": "popup.html"
@@ -43,11 +43,11 @@
       "description": "Duplicate to a new window"
     },
     "pop-out-to-new-window": {
-	  "suggested_key": { "default": "Ctrl+Shift+P" },
+      "suggested_key": { "default": "Ctrl+Shift+P" },
       "description": "Pop tab out to a new window"
     },
     "new-tab-to-the-right": {
-	  "suggested_key": { "default": "Ctrl+Shift+K" },
+      "suggested_key": { "default": "Ctrl+Shift+K" },
       "description": "New tab to the right"
     }
   },
